@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AmigosDaComunidade</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="remember">Remember</string>
+    <string name="login">Login</string>
+    <string name="Welcome">Welcome</string>
+    <string name="textoExemplo">Urban life calls for a harmonious balance between society and natural ecosystems. However, environmental pollution profoundly impedes this balance. It is known that most forms of pollution originate from actions human beings, and these hinder or prevent the permanence of the life of human beings and animals.Of the various forms of pollution, we can have as examples, noise pollution, air pollution,and the irregular disposal of solid waste and/or sewage.</string>
+    <string name="textoExplicacao">For these reasons, AmigosDaComunidade was created with the aim of
+        helping the ecosystem and making society more aware of environ mental pollution on the reef.</string>
+    <string name="msgError">User error</string>
+    <string name="btTelaInformation">more</string>
+    <string name="checkUser">Ready to help?</string>
+    <string name="cadastrar">Register</string>
+    <string name="email">Email</string>
+    <string name="lista">List</string>
+</resources>

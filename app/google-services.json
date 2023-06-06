@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "715729758644",
+    "project_id": "amigosdacomunidade-5aafa",
+    "storage_bucket": "amigosdacomunidade-5aafa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715729758644:android:47487e99632ff655ddeae1",
+        "android_client_info": {
+          "package_name": "com.example.empregaeu4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "715729758644-uimcuon039oj5hb50c09e671fgeo85k7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSUUEV75ZD774kvkoKNH5r5o6JEcJ2VS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "715729758644-uimcuon039oj5hb50c09e671fgeo85k7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
